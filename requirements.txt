@@ -1,3 +1,9 @@
+numpy
+pandas
+matplotlib
 streamlit
 nltk
-sklearn
+scikit-learn
+tensorflow
+tensorflow_hub
+keras_nlp
